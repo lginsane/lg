@@ -1,0 +1,14 @@
+{
+  "name": "@lg/prettier-config",
+  "version": "0.0.1",
+  "description": "Lg's prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "迷之de小孩灬",
+  "license": "ISC"
+}
