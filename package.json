@@ -2,6 +2,22 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "@commitlint/cli": "^17.0.0",
+    "commitizen": "^4.2.4",
+    "commitlint-config-cz": "^0.13.3",
+    "cz-customizable": "^6.3.0",
+    "lerna": "^4.0.0",
+    "yorkie": "^2.0.0"
+  },
+  "scripts": {
+    "commit": "git cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  },
+  "gitHooks": {
+    "commit-msg": "commitlint -e -V"
   }
 }
