@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
     "commitizen": "^4.2.4",
@@ -19,5 +22,8 @@
   },
   "gitHooks": {
     "commit-msg": "commitlint -e -V"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

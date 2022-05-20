@@ -2,13 +2,24 @@
   "name": "@lg/prettier-config",
   "version": "0.0.1",
   "description": "Lg's prettier config",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "prettier"
   ],
-  "author": "迷之de小孩灬",
-  "license": "ISC"
+  "author": {
+    "name": "迷之de小孩灬",
+    "email": "lginsane@163.com"
+  },
+  "homepage": "https://github.com/lginsane/lg#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lginsane/lg.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lginsane/lg/issues"
+  }
 }
