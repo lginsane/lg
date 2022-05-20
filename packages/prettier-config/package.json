@@ -1,6 +1,6 @@
 {
   "name": "@lg/prettier-config",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Lg's prettier config",
   "keywords": [
     "prettier"
@@ -12,9 +12,6 @@
   "homepage": "https://github.com/lginsane/lg#readme",
   "license": "ISC",
   "main": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lginsane/lg.git"
