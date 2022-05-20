@@ -22,8 +22,5 @@
   },
   "gitHooks": {
     "commit-msg": "commitlint -e -V"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
