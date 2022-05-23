@@ -1,11 +1,9 @@
 # `prettier-config`
 
-> TODO: description
+> Lg's prettier config
 
 ## Usage
 
 ```
-const prettierConfig = require('prettier-config');
-
-// TODO: DEMONSTRATE API
+const prettierConfig = require('lg-prettier-config')
 ```
