@@ -1,5 +1,5 @@
 {
-  "name": "@lg/prettier-config",
+  "name": "lg-prettier-config",
   "version": "0.1.0",
   "description": "Lg's prettier config",
   "keywords": [
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/lginsane/lg/issues"
   },
-  "gitHead": "0e7c54be20554afe0338bd891eed3f536d277c7e"
+  "gitHead": "6cc6d0be9ec76e4c72fd7041373c774aa67b1f7e"
 }
