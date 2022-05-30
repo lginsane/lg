@@ -1,4 +1,4 @@
-# `create-commitlint`
+# `lg-create-commitlint`
 
 > commitlint config
 
