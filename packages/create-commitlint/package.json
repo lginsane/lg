@@ -5,6 +5,10 @@
   "keywords": [
     "commitlint"
   ],
+  "files": [
+    "lib",
+    "template"
+  ],
   "author": {
     "name": "迷之de小孩灬",
     "email": "lginsane@163.com"
